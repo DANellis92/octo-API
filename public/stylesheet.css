@@ -1,5 +1,5 @@
 body {
-   background: url('./public/Assets/hordeface.jpg') no-repeat  fixed, url('./public/Assets/allyface.jpg') no-repeat fixed;
+   background: url('./Assets/hordeface.jpg') no-repeat  fixed, url('./Assets/allyface.jpg') no-repeat fixed;
    background-size: 25% , 25%;
    background-position-x: -1vw, 75vw;
    background-position-y: 10vh;   
